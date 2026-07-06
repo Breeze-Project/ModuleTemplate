@@ -1,0 +1,5 @@
+name: ModuleName
+version: '${version}'
+main: PathToMainClass
+api-version: '1.2.0'
+depends: []
